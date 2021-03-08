@@ -11,3 +11,5 @@ This repository collects all the awesome bots on GitHub 🤖️
 * [swift-ci](https://github.com/swift-ci) - Swift Docs:
 * [typescript-bot](https://github.com/typescript-bot) - bleep bloop, I am a robot. Please bother @RyanCavanaugh if I appear to be misbehaving. I try to be a good bot, but sometimes I fall short.
 * [gopherbot](https://github.com/gopherbot)
+* [facebook-github-bot](https://github.com/facebook-github-bot)
+* [electron-bot](https://github.com/electron-bot)
